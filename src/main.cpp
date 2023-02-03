@@ -72,7 +72,7 @@ void setup() {
   analog_input_begin();
   Serial.println("teste2");
   io_output_begin();
-  Serial.println("teste3");
+  Serial.println("teste33");
   
   Serial.println("teste4");
   
